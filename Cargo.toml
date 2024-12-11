@@ -31,7 +31,7 @@ members = [
     "sha256",
     "symmetric",
     "util",
-    "uni-stark",
+    "uni-stark", "dbg-air",
 ]
 
 [workspace.dependencies]
